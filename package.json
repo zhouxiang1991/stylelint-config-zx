@@ -1,0 +1,16 @@
+{
+  "name": "stylelint-config-zx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zhouxiang1991 <zhouxiang1991@caifujilu.com>",
+  "license": "MIT",
+  "scripts": {
+    "push": "yarn publish --registry http://registry.npm.wisedu.com"
+  },
+  "dependencies": {
+    "stylelint-config-prettier": "^6.0.0",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-order": "^3.1.1",
+    "stylelint-prettier": "^1.1.1"
+  }
+}
